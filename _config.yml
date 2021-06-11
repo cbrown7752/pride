@@ -11,4 +11,15 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
 
   Author's home: "https://deanattali.com"
+  
+  
+ avatar: "https://echobot.xyz/logo.png"
+
+
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+
+round-avatar: true
+
+
 
