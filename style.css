@@ -1,0 +1,30 @@
+header {
+  background: #466368;
+  background: linear-gradient(to right, #FF0018, #FFA52C, #FFFF41, #008018, #0000F9, #86007D);
+  height: 300px;
+}
+
+div {
+  margin: 1em;
+}
+
+h2 {
+      margin-top: 10px;
+      margin-right: 0px;
+      margin-left: 0px;
+      box-shadow: none;
+      font-family: Arial, Helvetica, sans-serif;
+      color: white;
+      font-size: 45px;
+      line-height: 36px;
+      font-style: normal;
+      font-weight: 300;
+      text-align: center;
+      letter-spacing: 0px;
+      text-shadow: rgba(0, 0, 0, 0.2) 0px 1px 0px, black 0px 2px 1px;
+      }
+
+hr {
+	background: linear-gradient(to right, #FF0018, #FFA52C, #FFFF41, #008018, #0000F9, #86007D);
+	hight: 2px;
+	}
